@@ -13,3 +13,4 @@ def myFunc(n):
     print(q)
     
 myFunc(154)
+# it looks like I learned how to use git today
