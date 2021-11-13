@@ -16,3 +16,4 @@ def seq(*i):
             a= s/n
             print(s,m,n,a)
 seq()
+# it looks like I learned how to use git today
